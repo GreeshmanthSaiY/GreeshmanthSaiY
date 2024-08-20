@@ -10,7 +10,7 @@
 - In my free time, I read books and play outdoor games
 
 🔧 **Goal**:  
-- Eager to contribute to innovative projects by leveraging my technical expertise in a dynamic environment
+- Eager to contribute to innovative projects by leveraging my technical expertise in the challenging world
 
 🎯 **Ambition**:  
 - Seeking a challenging role to apply my knowledge, drive innovation, and contribute to organizational success
