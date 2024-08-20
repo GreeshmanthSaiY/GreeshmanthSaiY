@@ -7,7 +7,7 @@
 
 ⚡ **Fun fact**:  
 - I love solving algorithmic problems  
-- In my free time, I experiment with 3D design and app development
+- In my free time, I read books and play outdoor games
 
 🔧 **Goal**:  
 - Eager to contribute to innovative projects by leveraging my technical expertise in a dynamic environment
