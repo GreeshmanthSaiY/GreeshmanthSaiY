@@ -6,7 +6,7 @@
 - Exploring innovative digital solutions
 
 ⚡ **Fun fact**:  
-- I love solving algorithmic problems  
+- I love solving algorithmic problems  and analytical questions
 - In my free time, I read books and play outdoor games
 
 🔧 **Goal**:  
