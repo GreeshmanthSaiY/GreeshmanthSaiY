@@ -2,7 +2,7 @@
 
 ### **About Me**:
 👀 **Passionate about**:  
-- Software development  
+- Software development  and programming
 - Exploring innovative digital solutions
 
 ⚡ **Fun fact**:  
