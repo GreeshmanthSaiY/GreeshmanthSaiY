@@ -1,61 +1,58 @@
 <div align="center">
 
-# GREESHMANTH SAI Y
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=GREESHMANTH%20SAI%20Y&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
-### Building Intelligent Systems
+<br/>
 
-AI Systems Engineer • Software Engineer • Applied AI Researcher
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=700\&size=28\&duration=2800\&pause=1000\&color=8B5CF6\&center=true\&vCenter=true\&width=1100\&lines=Building+Intelligent+Systems;AI+Systems+Engineer;Software+Engineer;Applied+AI+Researcher;Cybersecurity+AI+%7C+Full-Stack+Engineering;Learn.+Adapt.+Build.)](https://git.io/typing-svg)
 
-<br>
+<br/>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### Building technology that transforms ideas into impact.
 
-### Learn. Adapt. Build.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br>
+<br/>
 
 <a href="https://www.linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:greeshmanthsaiy0210@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/GreeshmanthSaiY">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-In_Progress-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-In%20Progress-7C3AED?style=for-the-badge"/>
 </a>
 
-<br><br>
+<a href="https://github.com/GreeshmanthSaiY">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=GreeshmanthSaiY\&style=flat-square\&color=7C3AED)
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=GreeshmanthSaiY\&style=for-the-badge\&color=7C3AED)
 
 </div>
 
 ---
 
-# Who Am I?
+# THE MISSION
 
-I build software systems that combine **Artificial Intelligence, Backend Engineering, Cybersecurity, Cloud Infrastructure, and Research**.
+I believe the future belongs to people who continuously **learn**, intelligently **adapt**, and relentlessly **build**.
 
-My work focuses on turning complex ideas into practical solutions that are scalable, efficient, and capable of solving real-world problems.
+My work sits at the intersection of:
 
-Currently, my journey revolves around:
+* Artificial Intelligence
+* Software Engineering
+* Cybersecurity Intelligence
+* Cloud Infrastructure
+* Distributed Systems
 
-* Building intelligent AI-powered platforms
-* Designing scalable backend architectures
-* Researching efficient machine learning systems
-* Exploring the future of agentic AI and distributed systems
+I focus on designing systems that move beyond prototypes and create measurable real-world impact.
 
 ---
 
-# Engineering Identity
+# ENGINEERING IDENTITY
 
 ```yaml
 Name: Greeshmanth Sai Y
@@ -65,127 +62,102 @@ Role:
   - Software Engineer
   - Applied AI Researcher
 
-Interests:
+Building:
+  - Intelligent Systems
+  - AI-Powered Applications
+  - Scalable Backend Platforms
+
+Interested In:
   - Artificial Intelligence
   - Machine Learning Systems
   - Cybersecurity Intelligence
   - Distributed Systems
   - Cloud Engineering
 
-Mission:
-  Build technology that creates measurable impact.
+Core Principle:
+  Learn. Adapt. Build.
 ```
 
 ---
 
-# Tech Arsenal
+# FEATURED SYSTEMS
 
-### Languages
+## 🛡️ KAVACH AI
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,sql"/>
-</p>
+### Cybersecurity Intelligence Platform
 
-### Frontend
+> Detect. Analyze. Protect.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,bootstrap"/>
-</p>
+A machine learning-powered cybersecurity platform built to identify phishing threats using intelligent feature extraction, domain intelligence, and predictive threat analysis.
 
-### Backend
+| Category   | Details                            |
+| ---------- | ---------------------------------- |
+| Stack      | Python, XGBoost, React, MySQL, AWS |
+| Accuracy   | ~93%                               |
+| Recall     | ~91%                               |
+| Deployment | Cloud Hosted                       |
+| Focus      | Threat Detection                   |
+| Status     | Active Development                 |
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet"/>
-</p>
+### Highlights
 
-### Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
-</p>
-
-### Cloud & DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
-</p>
-
-### AI / ML
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-</p>
+* ML-Powered Threat Detection
+* Real-Time Analysis Pipeline
+* Cybersecurity Intelligence Integration
+* Cloud Deployment Architecture
 
 ---
 
-# Featured Work
+## 🧠 Evolutionary CNN Pruning
 
-## 01 — KAVACH AI
+### Deep Learning Optimization Research
 
-Cybersecurity Intelligence Platform
+> Smaller Models. Same Intelligence.
 
-```text
-Detect.
-Analyze.
-Protect.
-```
+Research project focused on neural network compression using evolutionary optimization for edge-level deployment.
 
-A machine learning-powered cybersecurity platform designed to identify phishing threats through intelligent feature extraction and threat intelligence analysis.
+| Category      | Details |
+| ------------- | ------- |
+| Framework     | PyTorch |
+| Acceleration  | CUDA    |
+| Compression   | ~60%    |
+| Accuracy Loss | <2%     |
+| Focus         | Edge AI |
 
-**Stack**
+### Highlights
 
-Python • XGBoost • React • MySQL • AWS
-
-**Highlights**
-
-* ~93% Detection Accuracy
-* Real-Time Threat Analysis
-* Cybersecurity Intelligence Pipeline
-* Cloud Deployment
+* Evolutionary Optimization
+* Layer-Wise Pruning
+* GPU Accelerated Experiments
+* Resource-Constrained Deployment
 
 ---
 
-## 02 — Evolutionary CNN Pruning
+## 🎓 Virtual Classroom Platform
 
-Research + Edge AI
+### Full Stack Learning Management System
 
-```text
-Smaller Models.
-Same Intelligence.
-```
+Designed and developed a scalable educational platform supporting authentication, course management, and academic workflows.
 
-Research project focused on neural network compression through evolutionary optimization techniques for edge-level deployment.
-
-**Highlights**
-
-* ~60% Parameter Reduction
-* <2% Accuracy Loss
-* GPU Accelerated Training
-* Edge AI Focus
-
----
-
-## 03 — Virtual Classroom Platform
-
-Full Stack Engineering
-
-Designed and implemented a learning management platform supporting authentication, course workflows, and scalable data management.
-
-**Stack**
+**Tech Stack**
 
 Java • JSP • MySQL • JavaScript
 
 ---
 
-## 04 — Cibus
+## 🍽️ Cibus
 
-Interactive Food Discovery Platform
+### Regional Food Discovery Platform
 
-Focused on creating engaging digital experiences through responsive design and modern frontend engineering.
+Interactive web platform focused on modern user experience and regional food exploration.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
 
 ---
 
-# Professional Experience
+# PROFESSIONAL EXPERIENCE
 
 ## Software Development Engineer I
 
@@ -193,16 +165,20 @@ Focused on creating engaging digital experiences through responsive design and m
 
 **Sep 2025 — Present**
 
-Building enterprise-grade applications supporting large-scale government platforms.
+Developing enterprise-grade digital platforms supporting large-scale government systems.
 
-Key Areas:
+### Key Contributions
 
-* Full Stack Engineering
-* Backend Systems
-* REST API Design
+* Full Stack Development
+* REST API Engineering
+* Backend System Design
 * Database Optimization
 * AI Integration
 * Distributed Architecture
+
+### Technologies
+
+`React` `Angular` `Spring Boot` `.NET Core` `Python` `MySQL`
 
 ---
 
@@ -212,11 +188,49 @@ Key Areas:
 
 **Mar 2025 — May 2025**
 
-Worked on analytical pipelines, automation workflows, and data-driven decision support systems.
+Worked on data pipelines, automation workflows, and analytical systems supporting data-driven decision-making.
+
+### Technologies
+
+`Python` `Pandas` `SQL`
 
 ---
 
-# Certifications
+# TECHNICAL ARSENAL
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,sql"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,bootstrap"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+</div>
+
+---
+
+# CERTIFICATIONS
+
+<div align="center">
 
 ### Oracle
 
@@ -224,23 +238,25 @@ Worked on analytical pipelines, automation workflows, and data-driven decision s
 
 🏅 Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 
-🚧 Oracle APEX Developer Professional (In Progress)
+🚧 Oracle APEX Developer Professional *(In Progress)*
+
+</div>
 
 ---
 
-# Achievements
+# ACHIEVEMENTS
 
-| Achievement                     | Impact                                                                           |
-| ------------------------------- | -------------------------------------------------------------------------------- |
-| Government Systems Engineering  | Delivered production-grade solutions supporting Telangana government departments |
-| KAVACH AI                       | Built and deployed cybersecurity intelligence platform                           |
-| Research                        | Achieved ~60% neural network compression with minimal performance degradation    |
-| Enterprise Software Development | Built scalable backend and full-stack systems                                    |
-| Applied AI                      | Integrated machine learning into real-world software products                    |
+| Achievement                    | Impact                                                                           |
+| ------------------------------ | -------------------------------------------------------------------------------- |
+| Government Systems Engineering | Delivered production-grade solutions supporting Telangana government departments |
+| KAVACH AI                      | Built cybersecurity intelligence platform with ~93% detection accuracy           |
+| Deep Learning Research         | Achieved ~60% neural network compression with minimal accuracy degradation       |
+| Enterprise Engineering         | Developed scalable backend and full-stack systems                                |
+| Applied AI                     | Integrated machine learning into real-world software solutions                   |
 
 ---
 
-# Coding Profiles
+# CODING PROFILES
 
 <div align="center">
 
@@ -260,17 +276,17 @@ Worked on analytical pipelines, automation workflows, and data-driven decision s
 
 ---
 
-# GitHub Analytics
+# GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GreeshmanthSaiY&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GreeshmanthSaiY&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreeshmanthSaiY&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreeshmanthSaiY&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -280,7 +296,7 @@ Worked on analytical pipelines, automation workflows, and data-driven decision s
 
 ---
 
-# Contribution Activity
+# CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -290,13 +306,13 @@ Worked on analytical pipelines, automation workflows, and data-driven decision s
 
 ---
 
-# Current Focus
+# CURRENT FOCUS
 
 ```yaml
 Building:
   - KAVACH AI
-  - Greeshmanth World
-  - AI-Powered Systems
+  - Enterprise Software Systems
+  - AI-Powered Platforms
 
 Learning:
   - Agentic AI
@@ -306,8 +322,8 @@ Learning:
 
 Exploring:
   - RAG Systems
-  - Multi-Agent Workflows
   - AI Infrastructure
+  - Intelligent Automation
 
 Goal:
   Build world-class intelligent systems.
@@ -315,17 +331,29 @@ Goal:
 
 ---
 
-# Connect
+# CONNECT
 
 <div align="center">
 
-📧 [greeshmanthsaiy0210@gmail.com](mailto:greeshmanthsaiy0210@gmail.com)
+<a href="mailto:greeshmanthsaiy0210@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-greeshmanthsaiy0210%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💼 linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a
+<br/><br/>
 
-💻 github.com/GreeshmanthSaiY
+<a href="https://www.linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a/">
+<img src="https://img.shields.io/badge/LinkedIn-Greeshmanth_Sai_Yarramreddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🌐 Portfolio — Coming Soon
+<br/><br/>
+
+<a href="https://github.com/GreeshmanthSaiY">
+<img src="https://img.shields.io/badge/GitHub-GreeshmanthSaiY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Portfolio-Under_Construction-7C3AED?style=for-the-badge"/>
 
 </div>
 
@@ -333,10 +361,12 @@ Goal:
 
 <div align="center">
 
-## Learn. Adapt. Build.
+# Learn. Adapt. Build.
 
-Because growth belongs to those who never stop doing all three.
+### Because growth belongs to those who never stop doing all three.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
-
----
