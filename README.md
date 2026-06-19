@@ -1,237 +1,162 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=GREESHMANTH%20SAI%20Y&fontSize=58&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=GREESHMANTH%20SAI%20YARRAMREDDY&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=AI%20Systems%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Applied%20AI%20Researcher&descAlignY=58&descSize=18"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=27&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1100&lines=AI+Systems+Engineer+%7C+Full-Stack+Developer;Applied+AI+Researcher+%40+InfoShare+Systems;Building+Government-Scale+Digital+Platforms;Cybersecurity+Intelligence+%7C+Deep+Learning;PU+Learning+%2B+XGBoost+%7C+CNN+Pruning+%7C+RAG;Learn.+Adapt.+Build.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=1100&color=6366F1&center=true&vCenter=true&width=900&lines=Building+Government-Scale+Digital+Platforms;Cybersecurity+Intelligence+%7C+Deep+Learning+Research;PU+Learning+%2B+XGBoost+%7C+Evolutionary+CNN+Pruning;Learn.+Adapt.+Build.+Repeat.)](https://git.io/typing-svg)
 
 <br/>
 
-### Engineering systems that turn government-scale problems into production reality — and turn ML research into deployable intelligence.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:greeshmanthsaiy0210@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/GreeshmanthSaiY">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-In%20Progress-7C3AED?style=for-the-badge"/>
-</a>
+<a href="https://www.linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:greeshmanthsaiy0210@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6366F1?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/GreeshmanthSaiY"><img src="https://img.shields.io/badge/GitHub-Profile-1E293B?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-In%20Progress-475569?style=flat-square"/></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=GreeshmanthSaiY&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=GreeshmanthSaiY&style=flat-square&color=6366F1&label=PROFILE+VIEWS)
 
 </div>
 
 <br/>
 
-## ⚡ ABOUT ME
+## Profile Snapshot
 
-```yaml
-name: "Greeshmanth Sai Yarramreddy"
-role: ["AI Systems Engineer", "Full-Stack Developer", "Applied AI Researcher"]
-currently:
-  title: "Software Development Engineer I — AI/ML & Full-Stack"
-  company: "InfoShare Systems"
-  since: "Sep 2025"
-education: "B.Tech, Computer Science — Amrita Vishwa Vidyapeetham, Coimbatore (2021–2025)"
-languages_spoken: ["English (Fluent)", "Telugu (Native)", "Tamil (Fluent)", "Hindi (Fluent)"]
-philosophy: "Learn. Adapt. Build."
-mission: >
-  Designing systems at the intersection of AI, cybersecurity intelligence,
-  and distributed software — built to move past the prototype stage and
-  create measurable, real-world impact.
-```
+| | |
+|---|---|
+| **Current Role** | Software Development Engineer I — AI/ML & Full-Stack, InfoShare Systems *(Sep 2025 – Present)* |
+| **Education** | B.Tech, Computer Science & Engineering — Amrita Vishwa Vidyapeetham, Coimbatore *(2021 – 2025)* |
+| **Core Domains** | AI & ML Engineering · Full-Stack Development · Backend Engineering · Cloud Computing · Data Engineering |
+| **Languages Spoken** | English (Fluent) · Telugu (Native) · Tamil (Fluent) · Hindi (Fluent) |
+| **Certifications** | OCI 2025 Certified Generative AI Professional · OCI 2025 Certified AI Foundations Associate |
+| **Philosophy** | Learn. Adapt. Build. Repeat. |
 
-I currently build and ship enterprise digital infrastructure for **government-scale platforms**, while running independent research in **model compression** and **ML-driven cybersecurity** on the side. My work spans the full stack — from CUDA-accelerated pruning experiments to citizen-facing React dashboards processing real government workflows.
+I build production software for government-scale platforms and run independent research in model compression and ML-driven cybersecurity on the side — from CUDA-accelerated pruning experiments to citizen-facing dashboards processing real public-sector workflows.
 
 ---
 
-## 💼 EXPERIENCE
+## Experience
 
-<table>
-<tr>
-<td width="60%">
+**Software Development Engineer I — AI/ML & Full-Stack**
+InfoShare Systems · *Sep 2025 – Present*
+`React` `Angular` `Spring Boot` `.NET Core` `Python` `MySQL`
 
-### 🏢 Software Development Engineer I
-**InfoShare Systems** · *Sep 2025 – Present*
+<details>
+<summary><b>View detailed contributions</b></summary>
+<br/>
 
-</td>
-<td width="40%" align="right">
+- **HRMS (PJTSAU, Telangana)** — Built the pension management module in React.js (Context API, reusable components) for government HR operations; designed layered REST APIs (Controller–Service–Repository) on MySQL for employee records and pension calculations — reduced manual processing effort by **~40%**.
+- **VRES (Government Voucher Platform)** — Developed the React.js frontend enabling citizens to submit and track voucher redemptions; integrated REST APIs covering the full voucher lifecycle (creation, validation, status tracking) — significantly cut processing turnaround time.
+- Built enterprise backend services in Java (Spring Boot), .NET Core, and Angular for government digital infrastructure, and integrated Python ML pipelines directly into production backend workflows.
+- Optimized MySQL/MariaDB through schema redesign and query tuning to reduce API response latency; delivered work across Agile sprints using JIRA and CI/CD.
 
-`React` `Angular` `Spring Boot`
-`.NET Core` `Python` `MySQL`
-
-</td>
-</tr>
-</table>
-
-- **HRMS (PJTSAU, Telangana)** — Built the pension management module in React.js (Context API, reusable components) for government HR operations; designed layered REST APIs (Controller–Service–Repository) on MySQL for employee records & pension calculations — **reduced manual processing effort by ~40%**.
-- **VRES (Government Voucher Platform)** — Developed the React.js frontend for citizens to submit and track voucher redemptions; integrated REST APIs spanning the full voucher lifecycle — **significantly cut processing turnaround time**.
-- Built enterprise backend services in **Java (Spring Boot)**, **.NET Core**, and **Angular** for government digital infrastructure, and integrated **Python ML pipelines** directly into production backend workflows.
-- Optimized **MySQL/MariaDB** via schema redesign and query tuning to reduce API latency; delivered across Agile sprints using **JIRA** and **CI/CD**.
+</details>
 
 <br/>
 
-<table>
-<tr>
-<td width="60%">
-
-### 📊 Data Science Intern
-**PhyCARE Services (India) Pvt. Ltd.**, Hyderabad · *Mar 2025 – May 2025*
-
-</td>
-<td width="40%" align="right">
-
+**Data Science Intern**
+PhyCARE Services (India) Pvt. Ltd., Hyderabad · *Mar 2025 – May 2025*
 `Python` `Pandas` `SQL`
 
-</td>
-</tr>
-</table>
+<details>
+<summary><b>View detailed contributions</b></summary>
+<br/>
 
-- Built end-to-end data pipelines using Python, Pandas, and SQL to process operational datasets — **reduced analyst query time by ~30%**.
-- Performed data cleaning, feature transformation, and EDA across multiple organizational datasets, improving downstream data quality.
+- Built end-to-end data analysis pipelines using Python, Pandas, and SQL to process operational datasets and surface actionable business insights — reduced analyst query time by **~30%**.
+- Performed data cleaning, feature transformation, and exploratory data analysis across multiple organizational datasets, improving downstream data quality and consistency.
 - Automated **5+ recurring data workflows**, saving **~10 hours/week** of manual reporting effort.
 
----
-
-## 🛡️ FEATURED SYSTEMS
-
-### KAVACH AI — ML-Based Phishing & Cybersecurity Threat Detection
-> Detect. Analyze. Protect. · *Feb 2026 – Apr 2026*
-
-A full-stack phishing detection platform: a Python ML backend classifying URLs via DNS, WHOIS/RDAP, TLS/SSL, and behavioral signals, paired with a React.js dashboard for real-time visualization, deployed on AWS EC2.
-
-| Metric | Value |
-|---|---|
-| Detection Accuracy | **~93%** |
-| Phishing Recall | **~91%** |
-| Approach | PU Learning + XGBoost (handles real-world label scarcity) |
-| Latency Improvement | **~35%** via automated file processing pipelines |
-| Stack | `Python` `XGBoost` `PU Learning` `React.js` `REST APIs` `MySQL` `AWS EC2` |
+</details>
 
 ---
 
-### 🧠 Evolutionary Algorithm-Based CNN Model Pruning for Edge Deployment
-> Smaller Models. Same Intelligence. · *Jul 2024 – May 2025*
+## Featured Projects
 
-A neural network compression framework using adaptive genetic masking and fitness-driven multi-objective optimization (balancing FLOPs, parameter count, and accuracy) for edge-level deployment.
+| Project | Focus | Key Result | Stack |
+|---|---|---|---|
+| **KAVACH AI** | ML-based phishing & cybersecurity threat detection | ~93% accuracy, ~91% recall | Python · XGBoost · PU Learning · React.js · AWS EC2 |
+| **Evolutionary CNN Pruning** | Neural network compression for edge deployment | ~60% parameter reduction, <2% accuracy loss | PyTorch · CUDA · Deep Learning |
+| **Stock Market Prediction System** | Financial time-series forecasting | ~78% directional accuracy | Python · ML · Time Series |
+| **Virtual Classroom Platform** | Full-stack Learning Management System | 3+ course modules, full auth & role management | Java (JSP) · MySQL · JavaScript |
+| **Cibus** | Regional food discovery platform | Interactive regional exploration UX | HTML · CSS · JavaScript |
 
-| Metric | Value |
-|---|---|
-| Parameter Reduction | **~60%** |
-| Accuracy Drop | **< 2%** |
-| Inference Latency Reduction | **~45%** |
-| Stack | `Python` `CUDA` `PyTorch` `Deep Learning` `Model Compression` |
+<details>
+<summary><b>KAVACH AI — full breakdown</b></summary>
+<br/>
+
+*Feb 2026 – Apr 2026 · Python · XGBoost · PU Learning · React.js · REST APIs · MySQL · AWS EC2*
+
+A full-stack phishing detection platform with a Python ML backend classifying URLs via DNS, WHOIS/RDAP, TLS/SSL, and behavioral signals, paired with a React.js dashboard for real-time result visualization, deployed on AWS EC2.
+
+- Engineered a PU Learning + XGBoost classification pipeline achieving **~93% accuracy** and **~91% phishing recall** on a multi-source URL dataset, directly addressing real-world label-scarcity challenges.
+- Developed RESTful APIs for dataset uploads, ML inference, and structured result storage in MySQL.
+- Automated file processing pipelines, reducing end-to-end detection latency by **~35%**.
+
+</details>
+
+<details>
+<summary><b>Evolutionary Algorithm-Based CNN Model Pruning — full breakdown</b></summary>
+<br/>
+
+*Jul 2024 – May 2025 · Python · CUDA · PyTorch · Deep Learning · Model Compression*
+
+- Designed an evolutionary pruning framework using adaptive genetic masking, achieving **~60% parameter reduction** with under **2% accuracy drop** across tested architectures.
+- Formulated a fitness-driven multi-objective optimization strategy balancing FLOPs minimization, parameter reduction, and accuracy preservation — reducing inference latency by **~45%** for edge deployment.
+- Built GPU-accelerated experimentation workflows with CUDA and PyTorch for rapid benchmarking of pruned model variants.
+
+</details>
+
+<details>
+<summary><b>Stock Market Prediction System — full breakdown</b></summary>
+<br/>
+
+*Oct 2023 – Dec 2023 · Python · Machine Learning · Time Series Forecasting*
+
+- Engineered ML models for financial time-series forecasting using historical OHLCV data with lag-based and rolling-window feature engineering, achieving **~78% directional accuracy**.
+- Applied regression and classification techniques to identify market trends and generate data-driven signals.
+
+</details>
+
+<details>
+<summary><b>Virtual Classroom Platform — full breakdown</b></summary>
+<br/>
+
+*Feb 2024 – Apr 2024 · Java (JSP) · MySQL · HTML · CSS · JavaScript*
+
+- Developed a full-stack LMS supporting course delivery, student–instructor collaboration, and content management for 3+ course modules.
+- Built secure Java JSP backend services with MySQL for user authentication, role management, and course content storage.
+
+</details>
 
 ---
 
-### 📈 Stock Market Prediction System
-> Time-series signals from raw market noise. · *Oct 2023 – Dec 2023*
+## Research
 
-ML models for financial time-series forecasting using historical OHLCV data with lag-based and rolling-window feature engineering. Applied regression and classification to flag market trends.
+**Hybrid Differential Evolution-Based Layer-Wise Weight Pruning for Edge-Level IoT Devices**
+*Research Manuscript — Under Preparation* · `Python` `PyTorch` `Evolutionary Algorithms` `Neural Network Compression`
 
-| Metric | Value |
-|---|---|
-| Directional Accuracy | **~78%** |
-| Stack | `Python` `Machine Learning` `Time Series Forecasting` |
-
----
-
-### 🎓 Virtual Classroom Platform
-> Full-Stack Learning Management System · *Feb 2024 – Apr 2024*
-
-A full-stack LMS supporting course delivery, student–instructor collaboration, and content management across 3+ course modules, with a secure Java JSP backend, authentication, and role management on MySQL.
-
-`Java (JSP)` `MySQL` `HTML` `CSS` `JavaScript`
-
----
-
-### 🍽️ Cibus
-> Regional Food Discovery Platform
-
-An interactive web platform focused on modern UX for regional food exploration.
-
-`HTML` `CSS` `JavaScript`
-
----
-
-## 🔬 RESEARCH EXPERIENCE
-
-### Hybrid Differential Evolution-Based Layer-Wise Weight Pruning for Edge-Level IoT Devices
-*Research Manuscript — Under Preparation*
-
-- Designed hybrid differential evolution algorithms for layer-wise weight pruning of deep neural networks, targeting resource-constrained IoT edge devices, achieving significant compression while maintaining competitive accuracy.
+- Designed hybrid differential evolution algorithms for layer-wise weight pruning of deep neural networks, targeting resource-constrained IoT edge devices, achieving significant model compression while maintaining competitive accuracy.
 - Conducted systematic experimental evaluation across compression ratio, inference latency, and accuracy benchmarks on multiple network architectures.
 
-`Python` `PyTorch` `Evolutionary Algorithms` `Neural Network Compression`
-
 ---
 
-## 🛠️ TECHNICAL ARSENAL
+## Technical Skills
 
-<div align="center">
+<table>
+<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,sql"/></td></tr>
+<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,bootstrap"/></td></tr>
+<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet"/></td></tr>
+<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mysql,postgresql"/> &nbsp;<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white"/></td></tr>
+<tr><td><b>Cloud & DevOps</b></td><td><img src="https://skillicons.dev/icons?i=aws,docker,git,github"/> &nbsp;<img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></td></tr>
+<tr><td><b>AI / ML</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/> &nbsp;<img src="https://img.shields.io/badge/XGBoost-FF7043?style=flat-square"/> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/></td></tr>
+</table>
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,sql"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,bootstrap"/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet"/>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-**Cloud, DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
-<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/>
-<img src="https://img.shields.io/badge/XGBoost-FF7043?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-
-</div>
-
-**Core Domains:** AI & Machine Learning Engineering · Full-Stack Development · Backend Engineering · Cloud Computing · Data Engineering
 **CS Fundamentals:** DSA · OOP · DBMS · Operating Systems · Computer Networks · System Design · API Design · Distributed Systems
 
 ---
 
-## 🏅 CERTIFICATIONS
-
-<div align="center">
-
-🏅 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
-
-🏅 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
-
-🚧 **Oracle APEX Developer Professional** *(In Progress)*
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENTS
+## Achievements
 
 | Achievement | Impact |
 |---|---|
@@ -243,123 +168,44 @@ An interactive web platform focused on modern UX for regional food exploration.
 
 ---
 
-## 🎓 EDUCATION
-
-**B.Tech, Computer Science and Engineering**
-Amrita Vishwa Vidyapeetham, Coimbatore · 2021 – 2025
-
----
-
-## 📌 CODING PROFILES
+## GitHub Analytics
 
 <div align="center">
 
-<!-- Replace YOUR_LEETCODE_URL / YOUR_CODECHEF_URL / YOUR_GFG_URL with your actual profile links -->
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GreeshmanthSaiY&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=6366F1&icon_color=6366F1&text_color=475569&bg_color=ffffff00"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreeshmanthSaiY&layout=compact&hide_border=true&theme=default&title_color=6366F1&text_color=475569&bg_color=ffffff00"/>
 
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="YOUR_CODECHEF_URL">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-<a href="YOUR_GFG_URL">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GreeshmanthSaiY&hide_border=true&background=ffffff00&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=475569&dates=94A3B8"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=GreeshmanthSaiY&theme=flat&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## Currently
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GreeshmanthSaiY&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreeshmanthSaiY&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GreeshmanthSaiY&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=GreeshmanthSaiY&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
+| Building | Learning | Exploring |
+|---|---|---|
+| KAVACH AI | Agentic AI & LLM Engineering | AI Infrastructure & MLOps |
+| Government software systems @ InfoShare | Retrieval-Augmented Generation (RAG) | Intelligent Automation |
+| Hybrid DE pruning research manuscript | Distributed & Cloud-Native Systems | Large Language Models |
 
 ---
 
-## 📈 CONTRIBUTION ACTIVITY
+## Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GreeshmanthSaiY&theme=tokyo-night&hide_border=true"/>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
-> 💡 **Want the animated "snake eating your contribution graph"?** It needs a tiny one-time setup (a GitHub Action: `Platane/snk`) since it can't be generated by an external image link alone. Say the word and I'll write the workflow file for you.
-
----
-
-## 🎯 CURRENT FOCUS
-
-```yaml
-building:
-  - KAVACH AI (cybersecurity intelligence platform)
-  - Enterprise government software systems @ InfoShare Systems
-  - Hybrid Differential Evolution pruning research manuscript
-
-learning:
-  - Agentic AI & LLM Engineering
-  - Retrieval-Augmented Generation (RAG) systems
-  - Distributed Systems & Cloud-Native Architecture
-
-exploring:
-  - AI Infrastructure & MLOps
-  - Intelligent Automation
-  - Large Language Models
-
-goal: "Build world-class intelligent systems."
-```
-
----
-
-## 🌐 LANGUAGES
-
-<div align="center">
-
-`English (Fluent)` · `Telugu (Native)` · `Tamil (Fluent)` · `Hindi (Fluent)`
-
-</div>
-
----
-
-## 📬 CONNECT
-
-<div align="center">
-
-<a href="mailto:greeshmanthsaiy0210@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-greeshmanthsaiy0210%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<a href="mailto:greeshmanthsaiy0210@gmail.com"><img src="https://img.shields.io/badge/Email-greeshmanthsaiy0210%40gmail.com-6366F1?style=flat-square&logo=gmail&logoColor=white"/></a>
 <br/><br/>
-
-<a href="https://www.linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a/">
-<img src="https://img.shields.io/badge/LinkedIn-Greeshmanth_Sai_Yarramreddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+<a href="https://www.linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a/"><img src="https://img.shields.io/badge/LinkedIn-Greeshmanth_Sai_Yarramreddy-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <br/><br/>
-
-<a href="https://github.com/GreeshmanthSaiY">
-<img src="https://img.shields.io/badge/GitHub-GreeshmanthSaiY-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Portfolio-Under_Construction-7C3AED?style=for-the-badge"/>
+<a href="https://github.com/GreeshmanthSaiY"><img src="https://img.shields.io/badge/GitHub-GreeshmanthSaiY-1E293B?style=flat-square&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -367,12 +213,8 @@ goal: "Build world-class intelligent systems."
 
 <div align="center">
 
-# Learn. Adapt. Build.
+### Learn. Adapt. Build. Repeat.
 
-### Because growth belongs to those who never stop doing all three.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
 
 </div>
