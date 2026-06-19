@@ -161,6 +161,12 @@ A full-stack phishing detection platform with a Python ML backend classifying UR
 
 ## Achievements
 
+<div align="center">
+<img src="assets/metrics-strip.svg" width="92%" alt="Key impact metrics"/>
+</div>
+
+<br/>
+
 | Achievement | Impact |
 |---|---|
 | Government Systems Engineering | Delivered production-grade HRMS & voucher management infrastructure for Telangana state departments |
