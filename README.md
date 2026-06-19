@@ -1,15 +1,34 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Greeshmanth Sai Yarramreddy"/>
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Greeshmanth Sai Y"/>
+</p>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=1000&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Researcher;Building+Production-Scale+Systems;Learn.+Adapt.+Build.+Repeat."/>
+
+</div>
 <br/><br/>
 
-<sub>
-<a href="mailto:greeshmanthsaiy0210@gmail.com">Email</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a/">LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://github.com/GreeshmanthSaiY">GitHub</a> &nbsp;·&nbsp;
-<a href="#">Portfolio (in progress)</a>
-</sub>
+<p align="center">
+
+<a href="mailto:greeshmanthsaiy0210@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/GreeshmanthSaiY">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+</p>
 
 <br/><br/>
 
