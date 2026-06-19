@@ -188,6 +188,14 @@ A full-stack phishing detection platform with a Python ML backend classifying UR
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GreeshmanthSaiY&hide_border=true&background=ffffff00&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=475569&dates=94A3B8"/>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GreeshmanthSaiY/GreeshmanthSaiY/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GreeshmanthSaiY/GreeshmanthSaiY/output/github-contribution-grid-snake.svg">
+  <img alt="A snake animation eating through the GitHub contribution graph" src="https://raw.githubusercontent.com/GreeshmanthSaiY/GreeshmanthSaiY/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
