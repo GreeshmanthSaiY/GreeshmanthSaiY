@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=GREESHMANTH%20SAI%20YARRAMREDDY&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=AI%20Systems%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Applied%20AI%20Researcher&descAlignY=58&descSize=18"/>
+<img src="assets/banner.svg" width="100%" alt="Greeshmanth Sai Yarramreddy"/>
 
-<br/>
+<br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=1100&color=6366F1&center=true&vCenter=true&width=900&lines=Building+Government-Scale+Digital+Platforms;Cybersecurity+Intelligence+%7C+Deep+Learning+Research;PU+Learning+%2B+XGBoost+%7C+Evolutionary+CNN+Pruning;Learn.+Adapt.+Build.+Repeat.)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://www.linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:greeshmanthsaiy0210@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6366F1?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/GreeshmanthSaiY"><img src="https://img.shields.io/badge/GitHub-Profile-1E293B?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-In%20Progress-475569?style=flat-square"/></a>
+<sub>
+<a href="mailto:greeshmanthsaiy0210@gmail.com">Email</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://github.com/GreeshmanthSaiY">GitHub</a> &nbsp;·&nbsp;
+<a href="#">Portfolio (in progress)</a>
+</sub>
 
 <br/><br/>
 
@@ -34,7 +32,7 @@
 
 I build production software for government-scale platforms and run independent research in model compression and ML-driven cybersecurity on the side — from CUDA-accelerated pruning experiments to citizen-facing dashboards processing real public-sector workflows.
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## Experience
 
@@ -69,7 +67,7 @@ PhyCARE Services (India) Pvt. Ltd., Hyderabad · *Mar 2025 – May 2025*
 
 </details>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## Featured Projects
 
@@ -129,7 +127,7 @@ A full-stack phishing detection platform with a Python ML backend classifying UR
 
 </details>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## Research
 
@@ -139,22 +137,27 @@ A full-stack phishing detection platform with a Python ML backend classifying UR
 - Designed hybrid differential evolution algorithms for layer-wise weight pruning of deep neural networks, targeting resource-constrained IoT edge devices, achieving significant model compression while maintaining competitive accuracy.
 - Conducted systematic experimental evaluation across compression ratio, inference latency, and accuracy benchmarks on multiple network architectures.
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## Technical Skills
 
-<table>
-<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,sql"/></td></tr>
-<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,bootstrap"/></td></tr>
-<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet"/></td></tr>
-<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mysql,postgresql"/> &nbsp;<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white"/></td></tr>
-<tr><td><b>Cloud & DevOps</b></td><td><img src="https://skillicons.dev/icons?i=aws,docker,git,github"/> &nbsp;<img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></td></tr>
-<tr><td><b>AI / ML</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/> &nbsp;<img src="https://img.shields.io/badge/XGBoost-FF7043?style=flat-square"/> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/></td></tr>
-</table>
+<div align="center">
+<img src="assets/capability-graph.svg" width="78%" alt="Capability map across AI/ML, Cloud & DevOps, Cybersecurity, Full-Stack, and Data Engineering"/>
+</div>
 
-**CS Fundamentals:** DSA · OOP · DBMS · Operating Systems · Computer Networks · System Design · API Design · Distributed Systems
+<br/>
 
----
+| Category | Skills |
+|---|---|
+| **Languages** | Python · Java · C++ · C · JavaScript · TypeScript · SQL |
+| **Frontend** | React.js · Angular · Next.js · HTML5 · CSS3 · Bootstrap |
+| **Backend** | Spring Boot · Node.js · Express.js · .NET Core · REST APIs · Microservices |
+| **Databases** | MySQL · MariaDB · PostgreSQL · Oracle SQL |
+| **Cloud & DevOps** | AWS EC2 · Docker · Git · GitHub · CI/CD · JIRA |
+| **AI / ML** | PyTorch · TensorFlow · Scikit-learn · XGBoost · Deep Learning · NLP · MLOps · PU Learning |
+| **CS Fundamentals** | DSA · OOP · DBMS · Operating Systems · Computer Networks · System Design · API Design · Distributed Systems |
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## Achievements
 
@@ -166,26 +169,22 @@ A full-stack phishing detection platform with a Python ML backend classifying UR
 | Enterprise Engineering | Designed and shipped scalable backend & full-stack systems across Agile sprints |
 | Applied AI | Integrated production ML pipelines into live backend workflows |
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## GitHub Analytics
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GreeshmanthSaiY&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=6366F1&icon_color=6366F1&text_color=475569&bg_color=ffffff00"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreeshmanthSaiY&layout=compact&hide_border=true&theme=default&title_color=6366F1&text_color=475569&bg_color=ffffff00"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GreeshmanthSaiY&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=6366F1&icon_color=6366F1&text_color=475569&bg_color=ffffff00"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreeshmanthSaiY&layout=compact&hide_border=true&theme=default&title_color=6366F1&text_color=475569&bg_color=ffffff00"/>
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GreeshmanthSaiY&hide_border=true&background=ffffff00&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=475569&dates=94A3B8"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=GreeshmanthSaiY&theme=flat&no-frame=true&no-bg=true&row=1&column=7"/>
-
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## Currently
 
@@ -195,26 +194,10 @@ A full-stack phishing detection platform with a Python ML backend classifying UR
 | Government software systems @ InfoShare | Retrieval-Augmented Generation (RAG) | Intelligent Automation |
 | Hybrid DE pruning research manuscript | Distributed & Cloud-Native Systems | Large Language Models |
 
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:greeshmanthsaiy0210@gmail.com"><img src="https://img.shields.io/badge/Email-greeshmanthsaiy0210%40gmail.com-6366F1?style=flat-square&logo=gmail&logoColor=white"/></a>
-<br/><br/>
-<a href="https://www.linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a/"><img src="https://img.shields.io/badge/LinkedIn-Greeshmanth_Sai_Yarramreddy-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<br/><br/>
-<a href="https://github.com/GreeshmanthSaiY"><img src="https://img.shields.io/badge/GitHub-GreeshmanthSaiY-1E293B?style=flat-square&logo=github&logoColor=white"/></a>
-
-</div>
-
 <br/>
 
 <div align="center">
 
-### Learn. Adapt. Build. Repeat.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
+<img src="assets/footer.svg" width="100%" alt="Learn. Adapt. Build. Repeat."/>
 
 </div>
