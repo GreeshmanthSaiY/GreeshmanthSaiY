@@ -1,0 +1,76 @@
+<svg viewBox="0 0 1000 470" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="hubGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .bg { fill: #0b0f1c; }
+    .link { stroke: #334155; stroke-width: 1.4; stroke-dasharray: 4 5; animation: flow 2.4s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -18; } }
+    .halo { transform-box: fill-box; transform-origin: 50% 50%; animation: pulse 4s ease-in-out infinite; }
+    .halo.d0 { animation-delay: 0s; }
+    .halo.d1 { animation-delay: -0.8s; }
+    .halo.d2 { animation-delay: -1.6s; }
+    .halo.d3 { animation-delay: -2.4s; }
+    .halo.d4 { animation-delay: -3.2s; }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.18; transform: scale(1); }
+      50% { opacity: 0.42; transform: scale(1.12); }
+    }
+    .node-circle { fill: #11162a; stroke: #6366F1; stroke-width: 1.6; }
+    .label { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #E2E8F0; font-size: 16px; font-weight: 600; text-anchor: middle; }
+    .hub-pulse { transform-box: fill-box; transform-origin: 50% 50%; animation: hubpulse 3s ease-in-out infinite; }
+    @keyframes hubpulse {
+      0%, 100% { opacity: 0.6; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.08); }
+    }
+  </style>
+
+  <rect class="bg" width="1000" height="470" rx="14"/>
+
+  <!-- connecting links -->
+  <line class="link" x1="500" y1="235" x2="500" y2="85"/>
+  <line class="link" x1="500" y1="235" x2="657" y2="199"/>
+  <line class="link" x1="500" y1="235" x2="597" y2="383"/>
+  <line class="link" x1="500" y1="235" x2="403" y2="383"/>
+  <line class="link" x1="500" y1="235" x2="343" y2="199"/>
+
+  <!-- hub -->
+  <circle cx="500" cy="235" r="90" fill="url(#hubGlow)"/>
+  <circle class="hub-pulse" cx="500" cy="235" r="34" fill="#1E1B4B" stroke="#818CF8" stroke-width="2"/>
+  <text x="500" y="231" class="label" font-size="12" fill="#C7D2FE">CORE</text>
+  <text x="500" y="246" class="label" font-size="10" fill="#818CF8">ENGINEERING</text>
+
+  <!-- node: AI / ML -->
+  <circle class="halo d0" cx="500" cy="85" r="68" fill="#6366F1"/>
+  <circle class="node-circle" cx="500" cy="85" r="58"/>
+  <text x="500" y="81" class="label">AI &amp;</text>
+  <text x="500" y="99" class="label">ML</text>
+
+  <!-- node: Cloud & DevOps -->
+  <circle class="halo d1" cx="657" cy="199" r="68" fill="#6366F1"/>
+  <circle class="node-circle" cx="657" cy="199" r="58"/>
+  <text x="657" y="195" class="label">Cloud &amp;</text>
+  <text x="657" y="213" class="label">DevOps</text>
+
+  <!-- node: Cybersecurity -->
+  <circle class="halo d2" cx="597" cy="383" r="68" fill="#6366F1"/>
+  <circle class="node-circle" cx="597" cy="383" r="58"/>
+  <text x="597" y="379" class="label">Cyber-</text>
+  <text x="597" y="397" class="label">security</text>
+
+  <!-- node: Full-Stack -->
+  <circle class="halo d3" cx="403" cy="383" r="68" fill="#6366F1"/>
+  <circle class="node-circle" cx="403" cy="383" r="58"/>
+  <text x="403" y="379" class="label">Full-</text>
+  <text x="403" y="397" class="label">Stack</text>
+
+  <!-- node: Data Engineering -->
+  <circle class="halo d4" cx="343" cy="199" r="68" fill="#6366F1"/>
+  <circle class="node-circle" cx="343" cy="199" r="58"/>
+  <text x="343" y="195" class="label">Data</text>
+  <text x="343" y="213" class="label">Engineering</text>
+
+</svg>
