@@ -52,6 +52,17 @@
 I build production software for government-scale platforms and run independent research in model compression and ML-driven cybersecurity on the side — from CUDA-accelerated pruning experiments to citizen-facing dashboards processing real public-sector workflows.
 
 <img src="assets/divider.svg" width="100%" alt=""/>
+## Research Focus
+
+- Neural Network Compression
+- Evolutionary Algorithms
+- Edge AI Systems
+- AI Security & Cybersecurity
+- Agentic AI Systems
+- Large Language Models
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 
 ## Experience
 
