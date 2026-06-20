@@ -33,11 +33,11 @@
 
 ## About Me
 
-Software Development Engineer I with a focus on Artificial Intelligence, Machine Learning, Full-Stack Engineering, and Cloud-Native Systems.
+Software Development Engineer I specializing in Artificial Intelligence, Machine Learning, Full-Stack Engineering, and Cloud-Native Systems.
 
-Currently building production-grade government platforms at InfoShare Systems while conducting independent research in neural network compression, evolutionary optimization, and edge AI deployment.
+Currently engineering production-grade government platforms at InfoShare Systems while pursuing independent research in neural network compression, evolutionary optimization, and edge AI deployment.
 
-My work spans the full engineering lifecycle—from scalable backend architectures and citizen-facing applications to machine learning systems designed for real-world impact.
+My work spans scalable backend architectures, citizen-facing digital platforms, machine learning systems, and research-driven AI solutions designed for real-world impact.
 
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -161,23 +161,49 @@ A full-stack phishing detection platform with a Python ML backend classifying UR
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## Technical Skills
-
-<div align="center">
-<img src="assets/capability-graph.svg" width="78%" alt="Capability map across AI/ML, Cloud & DevOps, Cybersecurity, Full-Stack, and Data Engineering"/>
-</div>
+## Technology Arsenal
 
 <br/>
 
-| Category | Skills |
-|---|---|
-| **Languages** | Python · Java · C++ · C · JavaScript · TypeScript · SQL |
-| **Frontend** | React.js · Angular · Next.js · HTML5 · CSS3 · Bootstrap |
-| **Backend** | Spring Boot · Node.js · Express.js · .NET Core · REST APIs · Microservices |
-| **Databases** | MySQL · MariaDB · PostgreSQL · Oracle SQL |
-| **Cloud & DevOps** | AWS EC2 · Docker · Git · GitHub · CI/CD · JIRA |
-| **AI / ML** | PyTorch · TensorFlow · Scikit-learn · XGBoost · Deep Learning · NLP · MLOps · PU Learning |
-| **CS Fundamentals** | DSA · OOP · DBMS · Operating Systems · Computer Networks · System Design · API Design · Distributed Systems |
+### AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FFB000?style=for-the-badge)
+
+### Full Stack Engineering
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0EA5E9?style=for-the-badge)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+
+### Core Computer Science
+
+`Data Structures & Algorithms`
+`Object-Oriented Programming`
+`Operating Systems`
+`DBMS`
+`Computer Networks`
+`System Design`
+`Distributed Systems`
+
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
