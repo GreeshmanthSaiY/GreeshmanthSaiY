@@ -1,65 +1,57 @@
 <div align="center">
 
-<p align="center">
-  <img src="assets/banner.png" width="100%" alt="Greeshmanth Sai Y"/>
-</p>
-<div align="center">
+<img src="assets/banner.png" width="100%" alt="Greeshmanth Sai Y"/>
+
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=1000&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Researcher;Building+Production-Scale+Systems;Learn.+Adapt.+Build.+Repeat."/>
 
 </div>
 <br/><br/>
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:greeshmanthsaiy0210@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-CONNECT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/GreeshmanthSaiY">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/PORTFOLIO-COMING_SOON-06B6D4?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-</p>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=GreeshmanthSaiY&style=flat-square&color=6366F1&label=PROFILE+VIEWS)
-
 </div>
-
+<br/><br/>
 <br/>
 
-## Profile Snapshot
+## About Me
 
-| | |
-|---|---|
-| **Current Role** | Software Development Engineer I — AI/ML & Full-Stack, InfoShare Systems *(Sep 2025 – Present)* |
-| **Education** | B.Tech, Computer Science & Engineering — Amrita Vishwa Vidyapeetham, Coimbatore *(2021 – 2025)* |
-| **Core Domains** | AI & ML Engineering · Full-Stack Development · Backend Engineering · Cloud Computing · Data Engineering |
-| **Languages Spoken** | English (Fluent) · Telugu (Native) · Tamil (Fluent) · Hindi (Fluent) |
-| **Certifications** | OCI 2025 Certified Generative AI Professional · OCI 2025 Certified AI Foundations Associate |
-| **Philosophy** | Learn. Adapt. Build. Repeat. |
+Software Development Engineer I with a focus on Artificial Intelligence, Machine Learning, Full-Stack Engineering, and Cloud-Native Systems.
 
-I build production software for government-scale platforms and run independent research in model compression and ML-driven cybersecurity on the side — from CUDA-accelerated pruning experiments to citizen-facing dashboards processing real public-sector workflows.
+Currently building production-grade government platforms at InfoShare Systems while conducting independent research in neural network compression, evolutionary optimization, and edge AI deployment.
+
+My work spans the full engineering lifecycle—from scalable backend architectures and citizen-facing applications to machine learning systems designed for real-world impact.
+
 
 <img src="assets/divider.svg" width="100%" alt=""/>
+
 ## Research Focus
 
-- Neural Network Compression
-- Evolutionary Algorithms
-- Edge AI Systems
-- AI Security & Cybersecurity
-- Agentic AI Systems
-- Large Language Models
+| Area | Focus |
+|--------|--------|
+| 🧠 AI Research | Neural Network Compression & Model Optimization |
+| ⚡ Evolutionary Computing | Differential Evolution & Genetic Algorithms |
+| 🌐 Edge Intelligence | Resource-Constrained AI Systems |
+| 🔐 AI Security | Cybersecurity & Threat Detection |
+| 🤖 Agentic Systems | Autonomous AI Workflows |
+| 📚 LLM Engineering | RAG, Fine-Tuning & AI Applications |
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
