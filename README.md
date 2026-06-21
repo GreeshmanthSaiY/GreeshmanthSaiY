@@ -66,6 +66,7 @@ My work spans scalable backend architectures, citizen-facing digital platforms, 
 | Research Areas | Neural Network Compression, Evolutionary Algorithms, Edge AI      |
 | Certifications | OCI Generative AI Professional, OCI AI Foundations Associate      |
 
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## Experience
 
@@ -189,6 +190,8 @@ Focus:
 * Retrieval-Augmented Generation
 * AI Security & Adversarial Learning
 * Autonomous Multi-Agent Systems
+  
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 
 ## Technology Arsenal
@@ -241,12 +244,12 @@ Focus:
 
 ## Certifications
 
-🏆 Oracle Cloud Infrastructure 2025 Generative AI Professional
+| Certification | Focus |
+|---|---|
+| 🏆 OCI 2025 Generative AI Professional | Generative AI, LLMs, OCI AI Services |
+| 🏆 OCI 2025 AI Foundations Associate | AI Fundamentals, ML Concepts, Cloud AI |
 
-🏆 Oracle Cloud Infrastructure 2025 AI Foundations Associate
-
-🎯 Focus Areas:
-Artificial Intelligence • Machine Learning • Cloud Computing • Generative AI
+**Domains:** Artificial Intelligence • Machine Learning • Cloud Computing • Generative AI
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
