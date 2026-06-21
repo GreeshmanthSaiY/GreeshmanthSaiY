@@ -57,18 +57,15 @@ My work spans scalable backend architectures, citizen-facing digital platforms, 
 
 ## Professional Snapshot
 
-| Role | Organization | Focus |
-|--------|--------|--------|
-| Software Development Engineer I | InfoShare Systems | AI/ML • Full Stack • Government Platforms |
+| Category       | Details                                                           |
+| -------------- | ----------------------------------------------------------------- |
+| Role           | Software Development Engineer I                                   |
+| Organization   | InfoShare Systems                                                 |
+| Education      | B.Tech Computer Science & Engineering, Amrita Vishwa Vidyapeetham |
+| Specialization | Artificial Intelligence, Machine Learning, Full Stack Engineering |
+| Research Areas | Neural Network Compression, Evolutionary Algorithms, Edge AI      |
+| Certifications | OCI Generative AI Professional, OCI AI Foundations Associate      |
 
-| Education | Institution |
-|--------|--------|
-| B.Tech Computer Science & Engineering | Amrita Vishwa Vidyapeetham |
-
-| Certifications |
-|--------|
-| OCI Generative AI Professional |
-| OCI AI Foundations Associate |
 
 ## Experience
 
@@ -165,17 +162,38 @@ A full-stack phishing detection platform with a Python ML backend classifying UR
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## Research
+## Research & Innovation
 
-**Hybrid Differential Evolution-Based Layer-Wise Weight Pruning for Edge-Level IoT Devices**
-*Research Manuscript — Under Preparation* · `Python` `PyTorch` `Evolutionary Algorithms` `Neural Network Compression`
+### Current Research
 
-- Designed hybrid differential evolution algorithms for layer-wise weight pruning of deep neural networks, targeting resource-constrained IoT edge devices, achieving significant model compression while maintaining competitive accuracy.
-- Conducted systematic experimental evaluation across compression ratio, inference latency, and accuracy benchmarks on multiple network architectures.
+Hybrid Differential Evolution-Based Layer-Wise Weight Pruning for Edge-Level IoT Devices
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+Focus:
+
+* Neural Network Compression
+* Evolutionary Optimization
+* Edge AI Deployment
+* Resource-Constrained Inference
+
+### Research Goals
+
+* Develop highly compressed AI models for IoT devices
+* Improve inference efficiency without sacrificing accuracy
+* Explore evolutionary optimization for neural architecture refinement
+* Advance practical deployment of AI systems at the edge
+
+### Future Research Directions
+
+* Agentic AI Systems
+* Large Language Models
+* Retrieval-Augmented Generation
+* AI Security & Adversarial Learning
+* Autonomous Multi-Agent Systems
+
 
 ## Technology Arsenal
+
+<div align="center">
 
 ### AI & Machine Learning
 
@@ -216,6 +234,19 @@ A full-stack phishing detection platform with a Python ML backend classifying UR
 `System Design`
 `Distributed Systems`
 
+</div>
+
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## Certifications
+
+🏆 Oracle Cloud Infrastructure 2025 Generative AI Professional
+
+🏆 Oracle Cloud Infrastructure 2025 AI Foundations Associate
+
+🎯 Focus Areas:
+Artificial Intelligence • Machine Learning • Cloud Computing • Generative AI
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
@@ -237,7 +268,7 @@ A full-stack phishing detection platform with a Python ML backend classifying UR
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## GitHub Analytics
+## Engineering Activity
 
 <div align="center">
 
