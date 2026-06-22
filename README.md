@@ -298,7 +298,7 @@ Focus:
 
 | Building | Learning | Exploring |
 |---|---|---|
-| KAVACH AI | Agentic AI & LLM Engineering | AI Infrastructure & MLOps |
+| KAVACH AI(Phishing Detection) | Agentic AI & LLM Engineering | AI Infrastructure & MLOps |
 | Government software systems @ InfoShare | Retrieval-Augmented Generation (RAG) | Intelligent Automation |
 | Hybrid DE pruning research manuscript | Distributed & Cloud-Native Systems | Large Language Models |
 
