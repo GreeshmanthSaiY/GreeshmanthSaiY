@@ -280,7 +280,7 @@ Focus:
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GreeshmanthSaiY&hide_border=true&background=ffffff00&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=475569&dates=94A3B8"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GreeshmanthSaiY&hide_border=true&background=ffffff00&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=475569&dates=94A3B8&v=2"/>
 
 <br/><br/>
 
