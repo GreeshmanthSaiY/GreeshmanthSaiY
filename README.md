@@ -3,33 +3,12 @@
 <img src="assets/banner.png" width="100%" alt="Greeshmanth Sai Y"/>
 
 
-
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=1000&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Researcher;Building+Production-Scale+Systems;Learn.+Adapt.+Build.+Repeat."/>
 
 </div>
 <br/><br/>
 
-<div align="center">
-
-<a href="mailto:greeshmanthsaiy0210@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONNECT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a/">
-<img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/GreeshmanthSaiY">
-<img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/PORTFOLIO-COMING_SOON-06B6D4?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-</div>
-<br/><br/>
-<br/>
+<div align="center"><a href="mailto:greeshmanthsaiy0210@gmail.com"><img src="https://img.shields.io/badge/Connect-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/GreeshmanthSaiY"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"></a></div>
 
 ## About Me
 
