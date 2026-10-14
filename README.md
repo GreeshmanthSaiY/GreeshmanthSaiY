@@ -1,290 +1,261 @@
-<div align="center">
+ <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Greeshmanth Sai Y"/>
+<img src="assets/github-banner.png" width="100%" alt="Greeshmanth Sai Yarramreddy — Software Development Engineer I"/>
 
+**Software Development Engineer I**
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=1000&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Researcher;Building+Production-Scale+Systems;Learn.+Adapt.+Build.+Repeat."/>
+Applied AI · Full-Stack Engineering · Cloud · Oracle APEX
+
+Building enterprise applications and intelligent software systems.
+
+<p>
+<a href="https://www.linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+&nbsp;
+<a href="https://github.com/GreeshmanthSaiY"><img src="https://img.shields.io/badge/GitHub-Explore-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+&nbsp;
+<a href="mailto:greeshmanthsaiy0210@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 </div>
-<br/><br/>
 
-<div align="center"><a href="mailto:greeshmanthsaiy0210@gmail.com"><img src="https://img.shields.io/badge/Connect-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/GreeshmanthSaiY"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"></a></div>
+---
 
-## About Me
+## About
 
-Software Development Engineer I specializing in Artificial Intelligence, Machine Learning, Full-Stack Engineering, and Cloud-Native Systems.
+I'm a **Software Development Engineer I at InfoShare Systems**, working across enterprise application development, database-driven workflows, and applied AI/ML.
 
-Currently engineering production-grade government platforms at InfoShare Systems while pursuing independent research in neural network compression, evolutionary optimization, and edge AI deployment.
+My technical focus includes **Oracle APEX, SQL, PL/SQL, full-stack development, REST APIs, backend engineering, and machine learning**. I enjoy transforming business requirements into practical software solutions, improving application workflows, and exploring how AI can solve real-world problems.
 
-My work spans scalable backend architectures, citizen-facing digital platforms, machine learning systems, and research-driven AI solutions designed for real-world impact.
+- **Building:** Enterprise applications and data-driven systems
+- **Developing:** Backend services, APIs, and full-stack features
+- **Exploring:** Applied AI, machine learning, and model optimization
+- **Strengthening:** Database engineering, software design, and problem-solving
 
+---
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+## Professional Experience
 
-## Research Focus
+### Software Development Engineer I — InfoShare Systems
 
-| Area | Focus |
-|--------|--------|
-| 🧠 AI Research | Neural Network Compression & Model Optimization |
-| ⚡ Evolutionary Computing | Differential Evolution & Genetic Algorithms |
-| 🌐 Edge Intelligence | Resource-Constrained AI Systems |
-| 🔐 AI Security | Cybersecurity & Threat Detection |
-| 🤖 Agentic Systems | Autonomous AI Workflows |
-| 📚 LLM Engineering | RAG, Fine-Tuning & AI Applications |
+*September 2025 – Present*
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+`Oracle APEX` `SQL` `PL/SQL` `React.js` `Java` `REST APIs` `Python` `AI/ML`
 
-## Professional Snapshot
+Working across enterprise application development and AI/ML initiatives.
 
-| Category       | Details                                                           |
-| -------------- | ----------------------------------------------------------------- |
-| Role           | Software Development Engineer I                                   |
-| Organization   | InfoShare Systems                                                 |
-| Education      | B.Tech Computer Science & Engineering, Amrita Vishwa Vidyapeetham |
-| Specialization | Artificial Intelligence, Machine Learning, Full Stack Engineering |
-| Research Areas | Neural Network Compression, Evolutionary Algorithms, Edge AI      |
-| Certifications | OCI Generative AI Professional, OCI AI Foundations Associate      |
+- Develop and enhance application functionality using database-driven workflows and business logic.
+- Work with Oracle APEX, SQL, and PL/SQL for data operations, reports, validations, and application processes.
+- Contribute to frontend development and REST API integration.
+- Investigate defects, validate functionality, and support testing and delivery.
+- Collaborate with team members to translate requirements into working software.
 
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## Experience
-
-**Software Development Engineer I — AI/ML & Full-Stack**
-InfoShare Systems · *Sep 2025 – Present*
-`React` `Angular` `Spring Boot` `.NET Core` `Python` `MySQL`
+**Selected project contributions**
 
 <details>
-<summary><b>View detailed contributions</b></summary>
-<br/>
+<summary><strong>HRMS — PJTSAU</strong></summary>
 
-- **HRMS (PJTSAU, Telangana)** — Built the pension management module in React.js (Context API, reusable components) for government HR operations; designed layered REST APIs (Controller–Service–Repository) on MySQL for employee records and pension calculations — reduced manual processing effort by **~40%**.
-- **VRES (Government Voucher Platform)** — Developed the React.js frontend enabling citizens to submit and track voucher redemptions; integrated REST APIs covering the full voucher lifecycle (creation, validation, status tracking) — significantly cut processing turnaround time.
-- Built enterprise backend services in Java (Spring Boot), .NET Core, and Angular for government digital infrastructure, and integrated Python ML pipelines directly into production backend workflows.
-- Optimized MySQL/MariaDB through schema redesign and query tuning to reduce API response latency; delivered work across Agile sprints using JIRA and CI/CD.
+- Worked on pension management functionality using React.js and reusable frontend components.
+- Contributed to REST API integration and layered backend architecture.
+- Worked with MySQL and database-driven business workflows.
 
 </details>
 
-<br/>
+<details>
+<summary><strong>VRES — Voucher Platform</strong></summary>
 
-**Data Science Intern**
-PhyCARE Services (India) Pvt. Ltd., Hyderabad · *Mar 2025 – May 2025*
+- Worked on frontend functionality for voucher submission and tracking.
+- Integrated API-driven workflows supporting submission, validation, and status tracking.
+
+</details>
+
+<details>
+<summary><strong>Applied AI/ML Initiatives</strong></summary>
+
+- Contributed to machine learning project development and phishing detection workflows.
+- Explored data processing, model development, inference, and application integration.
+
+</details>
+
+### Data Science Intern — PhyCARE Services (India) Pvt. Ltd.
+
+*Hyderabad · March 2025 – May 2025*
+
 `Python` `Pandas` `SQL`
 
-<details>
-<summary><b>View detailed contributions</b></summary>
-<br/>
+- Worked on data cleaning, transformation, and exploratory data analysis.
+- Developed Python-based data processing workflows.
+- Used Pandas and SQL for data manipulation and analytical tasks.
+- Supported recurring reporting and data analysis activities.
 
-- Built end-to-end data analysis pipelines using Python, Pandas, and SQL to process operational datasets and surface actionable business insights — reduced analyst query time by **~30%**.
-- Performed data cleaning, feature transformation, and exploratory data analysis across multiple organizational datasets, improving downstream data quality and consistency.
-- Automated **5+ recurring data workflows**, saving **~10 hours/week** of manual reporting effort.
-
-</details>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
+---
 
 ## Featured Projects
 
-| Project | Focus | Key Result | Stack |
-|---|---|---|---|
-| **KAVACH AI** | ML-based phishing & cybersecurity threat detection | ~93% accuracy, ~91% recall | Python · XGBoost · PU Learning · React.js · AWS EC2 |
-| **Evolutionary CNN Pruning** | Neural network compression for edge deployment | ~60% parameter reduction, <2% accuracy loss | PyTorch · CUDA · Deep Learning |
-| **Stock Market Prediction System** | Financial time-series forecasting | ~78% directional accuracy | Python · ML · Time Series |
-| **Virtual Classroom Platform** | Full-stack Learning Management System | 3+ course modules, full auth & role management | Java (JSP) · MySQL · JavaScript |
-| **Cibus** | Regional food discovery platform | Interactive regional exploration UX | HTML · CSS · JavaScript |
+### 01. KAVACH AI
 
-<details>
-<summary><b>KAVACH AI — full breakdown</b></summary>
-<br/>
+**Machine Learning-Based Phishing Detection**
 
-*Feb 2026 – Apr 2026 · Python · XGBoost · PU Learning · React.js · REST APIs · MySQL · AWS EC2*
+`Python` `XGBoost` `PU Learning` `React.js` `REST APIs` `MySQL` `AWS`
 
-A full-stack phishing detection platform with a Python ML backend classifying URLs via DNS, WHOIS/RDAP, TLS/SSL, and behavioral signals, paired with a React.js dashboard for real-time result visualization, deployed on AWS EC2.
+A cybersecurity application exploring machine learning for URL analysis and phishing detection.
 
-- Engineered a PU Learning + XGBoost classification pipeline achieving **~93% accuracy** and **~91% phishing recall** on a multi-source URL dataset, directly addressing real-world label-scarcity challenges.
-- Developed RESTful APIs for dataset uploads, ML inference, and structured result storage in MySQL.
-- Automated file processing pipelines, reducing end-to-end detection latency by **~35%**.
+- Developed a classification workflow using XGBoost and Positive-Unlabeled Learning techniques.
+- Explored DNS, WHOIS/RDAP, TLS/SSL, and behavioral signals for URL analysis.
+- Built a web interface for analysis and results visualization.
+- Worked on API integration and structured result storage.
+- Explored deployment and inference workflows using AWS.
 
-</details>
+### 02. Evolutionary CNN Model Pruning
 
-<details>
-<summary><b>Evolutionary Algorithm-Based CNN Model Pruning — full breakdown</b></summary>
-<br/>
+**Neural Network Compression for Efficient AI**
 
-*Jul 2024 – May 2025 · Python · CUDA · PyTorch · Deep Learning · Model Compression*
+`Python` `PyTorch` `CUDA` `Deep Learning` `Evolutionary Optimization`
 
-- Designed an evolutionary pruning framework using adaptive genetic masking, achieving **~60% parameter reduction** with under **2% accuracy drop** across tested architectures.
-- Formulated a fitness-driven multi-objective optimization strategy balancing FLOPs minimization, parameter reduction, and accuracy preservation — reducing inference latency by **~45%** for edge deployment.
-- Built GPU-accelerated experimentation workflows with CUDA and PyTorch for rapid benchmarking of pruned model variants.
+Research-oriented work investigating efficient neural networks for computationally constrained environments.
 
-</details>
+- Explored evolutionary optimization strategies for CNN pruning.
+- Investigated reducing model complexity while preserving predictive performance.
+- Studied parameter reduction, computational cost, and inference efficiency.
+- Used PyTorch and GPU-accelerated experimentation workflows.
 
-<details>
-<summary><b>Stock Market Prediction System — full breakdown</b></summary>
-<br/>
+### 03. Virtual Classroom Platform
 
-*Oct 2023 – Dec 2023 · Python · Machine Learning · Time Series Forecasting*
+**Full-Stack Learning Management System**
 
-- Engineered ML models for financial time-series forecasting using historical OHLCV data with lag-based and rolling-window feature engineering, achieving **~78% directional accuracy**.
-- Applied regression and classification techniques to identify market trends and generate data-driven signals.
+`Java JSP` `MySQL` `HTML` `CSS` `JavaScript`
 
-</details>
+- Developed a web-based platform for learning and course-content management.
+- Implemented backend functionality using Java JSP and MySQL.
+- Built frontend components with HTML, CSS, and JavaScript.
+- Worked on user management and course-related application workflows.
 
-<details>
-<summary><b>Virtual Classroom Platform — full breakdown</b></summary>
-<br/>
+### 04. Stock Market Prediction System
 
-*Feb 2024 – Apr 2024 · Java (JSP) · MySQL · HTML · CSS · JavaScript*
+**Machine Learning and Time-Series Analysis**
 
-- Developed a full-stack LMS supporting course delivery, student–instructor collaboration, and content management for 3+ course modules.
-- Built secure Java JSP backend services with MySQL for user authentication, role management, and course content storage.
+`Python` `Machine Learning` `Data Analysis`
 
-</details>
+- Analyzed historical financial data for time-series exploration.
+- Investigated lag-based and rolling-window features.
+- Applied machine learning techniques to examine market trends.
+- Evaluated predictions using historical data.
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+---
 
-## Research & Innovation
+## Research
 
-### Current Research
+### Hybrid Differential Evolution-Based Layer-Wise Weight Pruning for Edge-Level IoT Devices
 
-Hybrid Differential Evolution-Based Layer-Wise Weight Pruning for Edge-Level IoT Devices
+**Research focus:** Efficient neural networks for resource-constrained edge environments.
 
-Focus:
+Areas of investigation include:
 
-* Neural Network Compression
-* Evolutionary Optimization
-* Edge AI Deployment
-* Resource-Constrained Inference
+- Neural network compression and layer-wise pruning
+- Differential Evolution and evolutionary optimization
+- Computational efficiency and inference performance
+- Accuracy preservation during model compression
+- Edge AI and IoT deployment constraints
 
-### Research Goals
+---
 
-* Develop highly compressed AI models for IoT devices
-* Improve inference efficiency without sacrificing accuracy
-* Explore evolutionary optimization for neural architecture refinement
-* Advance practical deployment of AI systems at the edge
+## Technical Stack
 
-### Future Research Directions
-
-* Agentic AI Systems
-* Large Language Models
-* Retrieval-Augmented Generation
-* AI Security & Adversarial Learning
-* Autonomous Multi-Agent Systems
-  
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-
-## Technology Arsenal
+### Programming Languages
 
 <div align="center">
-
-### AI & Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FFB000?style=for-the-badge)
-
-### Full Stack Engineering
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-0EA5E9?style=for-the-badge)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### Core Computer Science
-
-`Data Structures & Algorithms`
-`Object-Oriented Programming`
-`Operating Systems`
-`DBMS`
-`Computer Networks`
-`System Design`
-`Distributed Systems`
-
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp&theme=dark" alt="Python, Java, JavaScript, TypeScript, C and C++"/>
 </div>
 
+### Frontend Development
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap&theme=dark" alt="React, Angular, HTML, CSS and Bootstrap"/>
+</div>
+
+### Backend Development
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet&theme=dark" alt="Spring, Node.js, Express and .NET"/>
+</div>
+
+### Databases, Cloud and Tools
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,aws,docker,git,github&theme=dark" alt="MySQL, PostgreSQL, AWS, Docker, Git and GitHub"/>
+</div>
+
+### Oracle Technologies
+
+`Oracle APEX` · `Oracle SQL` · `PL/SQL`
+
+### AI and Machine Learning
+
+`PyTorch` · `TensorFlow` · `Scikit-learn` · `XGBoost` · `Pandas` · `NumPy`
+
+### Engineering Fundamentals
+
+`Data Structures & Algorithms` · `Object-Oriented Programming` · `DBMS` · `Operating Systems` · `Computer Networks` · `REST APIs` · `Software Testing` · `Debugging` · `Git` · `Agile / Scrum`
+
+---
+
+## Oracle APEX & Database Engineering
+
+My Oracle-focused development interests center on building reliable, data-driven enterprise applications.
+
+| Area | Focus |
+|---|---|
+| Oracle APEX | Forms, reports, interactive reports, navigation, and application workflows |
+| SQL | Joins, subqueries, aggregations, views, and data retrieval |
+| PL/SQL | Procedures, functions, packages, cursors, exceptions, and triggers |
+| Data Modeling | Tables, constraints, keys, and relational design |
+| Application Logic | Validations, dynamic actions, database operations, and business rules |
+| Reporting | Filtering, data presentation, and report generation |
+
+---
 
 ## Certifications
 
-| Certification | Focus |
-|---|---|
-| 🏆 OCI 2025 Generative AI Professional | Generative AI, LLMs, OCI AI Services |
-| 🏆 OCI 2025 AI Foundations Associate | AI Fundamentals, ML Concepts, Cloud AI |
+- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
 
-**Domains:** Artificial Intelligence • Machine Learning • Cloud Computing • Generative AI
+---
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+## Education
 
-## Achievements
+**Amrita Vishwa Vidyapeetham, Coimbatore**
 
-<div align="center">
-<img src="assets/metrics-strip.svg" width="92%" alt="Key impact metrics"/>
-</div>
+Bachelor of Technology in Computer Science and Engineering
 
-<br/>
+*2021 – 2025*
 
-| Achievement | Impact |
-|---|---|
-| Government Systems Engineering | Delivered production-grade HRMS & voucher management infrastructure for Telangana state departments |
-| KAVACH AI | Cloud-hosted cybersecurity intelligence platform — ~93% phishing detection accuracy via PU Learning + XGBoost |
-| Deep Learning Research | ~60% neural network parameter reduction with <2% accuracy degradation for edge deployment |
-| Enterprise Engineering | Designed and shipped scalable backend & full-stack systems across Agile sprints |
-| Applied AI | Integrated production ML pipelines into live backend workflows |
+---
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+## Beyond the Code
 
-## Engineering Activity
+I enjoy exploring emerging technologies, solving engineering problems, experimenting with AI/ML, and improving the usability and reliability of software applications.
+
+My approach is simple: understand the problem, design thoughtfully, build carefully, test thoroughly, and keep learning.
+
+---
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GreeshmanthSaiY&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=6366F1&icon_color=6366F1&text_color=475569&bg_color=ffffff00"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreeshmanthSaiY&layout=compact&hide_border=true&theme=default&title_color=6366F1&text_color=475569&bg_color=ffffff00"/>
+<img src="assets/divider.svg" width="55%" alt=""/>
+
+## Let's Build Something Meaningful.
+
+Interested in enterprise software, full-stack engineering, or practical AI applications? Let's connect.
+
+<a href="mailto:greeshmanthsaiy0210@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/greeshmanth-sai-yarramreddy-91332522a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GreeshmanthSaiY&hide_border=true&background=ffffff00&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=475569&dates=94A3B8&v=2"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GreeshmanthSaiY/GreeshmanthSaiY/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GreeshmanthSaiY/GreeshmanthSaiY/output/github-contribution-grid-snake.svg">
-  <img alt="A snake animation eating through the GitHub contribution graph" src="https://raw.githubusercontent.com/GreeshmanthSaiY/GreeshmanthSaiY/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## Currently
-
-| Building | Learning | Exploring |
-|---|---|---|
-| KAVACH AI(Phishing Detection) | Agentic AI & LLM Engineering | AI Infrastructure & MLOps |
-| Government software systems @ InfoShare | Retrieval-Augmented Generation (RAG) | Intelligent Automation |
-| Hybrid DE pruning research manuscript | Distributed & Cloud-Native Systems | Large Language Models |
+<sub>Software Development Engineer I · Enterprise Software · Applied AI</sub>
 
 <br/>
 
-<div align="center">
-
-<img src="assets/footer.svg" width="100%" alt="Learn. Adapt. Build. Repeat."/>
+**Learn. Adapt. Build. Repeat.**
 
 </div>
